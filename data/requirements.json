@@ -1,0 +1,296 @@
+{
+  "framework": "ISO 14001:2026",
+  "source": "ISO 14001:2026 Environmental management systems. Clause references with our own summaries; no ISO text reproduced.",
+  "official_text": "https://www.iso.org/search.html?q=14001",
+  "version": "2026-11-04",
+  "license": "CC-BY-4.0",
+  "disclaimer": "This repository is general information to help you understand and organize work on AI governance frameworks. It is not legal advice and does not guarantee compliance, certification or any regulatory outcome. Requirements are summarized in our own words; always check the official texts and get qualified advice for your situation.",
+  "requirements": [
+    {
+      "id": "ISO14001-01",
+      "ref": "4.1",
+      "title": "Understanding the organization and its context",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Know the internal and external issues, including environmental conditions such as climate, that affect your EMS.",
+      "applies_from": "Certifiable",
+      "evidence": "Context register with issues and environmental conditions; review date."
+    },
+    {
+      "id": "ISO14001-02",
+      "ref": "4.2",
+      "title": "Needs and expectations of interested parties",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Identify interested parties, their requirements, and which become compliance obligations.",
+      "applies_from": "Certifiable",
+      "evidence": "Interested-party register; link to compliance obligations."
+    },
+    {
+      "id": "ISO14001-03",
+      "ref": "4.3",
+      "title": "Scope of the EMS",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Define the EMS boundaries and applicability, considering activities, products and services you control or influence.",
+      "applies_from": "Certifiable",
+      "evidence": "Scope statement (documented information), available to interested parties."
+    },
+    {
+      "id": "ISO14001-04",
+      "ref": "4.4",
+      "title": "Environmental management system",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Establish the EMS and its processes, informed by context.",
+      "applies_from": "Certifiable",
+      "evidence": "EMS manual or process description; process interactions."
+    },
+    {
+      "id": "ISO14001-05",
+      "ref": "5.1",
+      "title": "Leadership and commitment",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Top management is accountable for the EMS and integrates it into business processes.",
+      "applies_from": "Certifiable",
+      "evidence": "Management review records; evidence of leaders' involvement and resources."
+    },
+    {
+      "id": "ISO14001-06",
+      "ref": "5.2",
+      "title": "Environmental policy",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Set a policy committed to environmental protection, compliance and continual improvement.",
+      "applies_from": "Certifiable",
+      "evidence": "Approved policy (documented information), communicated and available."
+    },
+    {
+      "id": "ISO14001-07",
+      "ref": "5.3",
+      "title": "Roles, responsibilities and authorities",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Assign and communicate EMS responsibilities, including reporting on EMS performance.",
+      "applies_from": "Certifiable",
+      "evidence": "Role descriptions or RACI, appointment records."
+    },
+    {
+      "id": "ISO14001-08",
+      "ref": "6.1.1",
+      "title": "Risks and opportunities \u2014 general",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Plan to address risks and opportunities from context, aspects and compliance obligations, including emergencies.",
+      "applies_from": "Certifiable",
+      "evidence": "Risk and opportunity register (documented information)."
+    },
+    {
+      "id": "ISO14001-09",
+      "ref": "6.1.2",
+      "title": "Environmental aspects",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Identify aspects and impacts with a life cycle perspective and determine significant aspects.",
+      "applies_from": "Certifiable",
+      "evidence": "Aspects and impacts register with criteria and significant aspects (documented information)."
+    },
+    {
+      "id": "ISO14001-10",
+      "ref": "6.1.3",
+      "title": "Compliance obligations",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Identify and have access to legal and other requirements and how they apply.",
+      "applies_from": "Certifiable",
+      "evidence": "Compliance obligations register (documented information)."
+    },
+    {
+      "id": "ISO14001-11",
+      "ref": "6.1.4",
+      "title": "Planning action",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Plan actions for significant aspects, obligations, risks and opportunities, and how to evaluate their effectiveness.",
+      "applies_from": "Certifiable",
+      "evidence": "Action plans linked to registers."
+    },
+    {
+      "id": "ISO14001-12",
+      "ref": "6.2",
+      "title": "Environmental objectives and planning",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Set measurable objectives and plan what, who, when and how results are evaluated.",
+      "applies_from": "Certifiable",
+      "evidence": "Objectives and plans (documented information); progress."
+    },
+    {
+      "id": "ISO14001-13",
+      "ref": "6.3",
+      "title": "Planning of changes",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Plan changes to the EMS in a controlled way.",
+      "applies_from": "Certifiable",
+      "evidence": "Change planning records."
+    },
+    {
+      "id": "ISO14001-14",
+      "ref": "7.1",
+      "title": "Resources",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Provide the resources the EMS needs.",
+      "applies_from": "Certifiable",
+      "evidence": "Resource decisions in management review."
+    },
+    {
+      "id": "ISO14001-15",
+      "ref": "7.2",
+      "title": "Competence",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Ensure competence of people whose work affects environmental performance or obligations.",
+      "applies_from": "Certifiable",
+      "evidence": "Training needs and records (documented evidence)."
+    },
+    {
+      "id": "ISO14001-16",
+      "ref": "7.3",
+      "title": "Awareness",
+      "roles": [
+        "organization"
+      ],
+      "summary": "People know the policy, significant aspects, their contribution and consequences of non-conformance.",
+      "applies_from": "Certifiable",
+      "evidence": "Awareness records and quiz results."
+    },
+    {
+      "id": "ISO14001-17",
+      "ref": "7.4",
+      "title": "Communication",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Plan internal and external communication, including what obligations require.",
+      "applies_from": "Certifiable",
+      "evidence": "Communication records (documented evidence as appropriate)."
+    },
+    {
+      "id": "ISO14001-18",
+      "ref": "7.5",
+      "title": "Documented information",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Create, update and control EMS documents and records.",
+      "applies_from": "Certifiable",
+      "evidence": "Document list, approvals, retention and access control."
+    },
+    {
+      "id": "ISO14001-19",
+      "ref": "8.1",
+      "title": "Operational planning and control",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Control processes linked to significant aspects, including outsourced processes and life cycle stages.",
+      "applies_from": "Certifiable",
+      "evidence": "Operational controls, contractor requirements, inspection records."
+    },
+    {
+      "id": "ISO14001-20",
+      "ref": "8.2",
+      "title": "Emergency preparedness and response",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Prepare for and respond to potential emergencies; test responses.",
+      "applies_from": "Certifiable",
+      "evidence": "Emergency plans, drill records, incident reports."
+    },
+    {
+      "id": "ISO14001-21",
+      "ref": "9.1.1",
+      "title": "Monitoring, measurement, analysis and evaluation",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Monitor environmental performance with calibrated equipment and evaluate results.",
+      "applies_from": "Certifiable",
+      "evidence": "Monitoring results, calibration records (documented evidence)."
+    },
+    {
+      "id": "ISO14001-22",
+      "ref": "9.1.2",
+      "title": "Evaluation of compliance",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Evaluate fulfilment of compliance obligations at planned intervals.",
+      "applies_from": "Certifiable",
+      "evidence": "Evaluation of compliance results (documented evidence)."
+    },
+    {
+      "id": "ISO14001-23",
+      "ref": "9.2",
+      "title": "Internal audit",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Run an audit program with objectives, criteria and scope; report and act.",
+      "applies_from": "Certifiable",
+      "evidence": "Audit program and reports (documented evidence)."
+    },
+    {
+      "id": "ISO14001-24",
+      "ref": "9.3",
+      "title": "Management review",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Top management reviews the EMS with all required inputs and records decisions.",
+      "applies_from": "Certifiable",
+      "evidence": "Management review minutes (documented evidence)."
+    },
+    {
+      "id": "ISO14001-25",
+      "ref": "10.1",
+      "title": "Continual improvement",
+      "roles": [
+        "organization"
+      ],
+      "summary": "Improve the suitability, adequacy and effectiveness of the EMS to enhance environmental performance.",
+      "applies_from": "Certifiable",
+      "evidence": "Improvement actions and results."
+    },
+    {
+      "id": "ISO14001-26",
+      "ref": "10.2",
+      "title": "Nonconformity and corrective action",
+      "roles": [
+        "organization"
+      ],
+      "summary": "React, find causes, act, verify effectiveness and update the EMS.",
+      "applies_from": "Certifiable",
+      "evidence": "Nonconformity and corrective action records."
+    }
+  ]
+}

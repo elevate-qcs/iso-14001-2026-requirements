@@ -1,0 +1,27 @@
+id,ref,title,roles,summary,applies_from,evidence
+ISO14001-01,4.1,Understanding the organization and its context,organization,"Know the internal and external issues, including environmental conditions such as climate, that affect your EMS.",Certifiable,Context register with issues and environmental conditions; review date.
+ISO14001-02,4.2,Needs and expectations of interested parties,organization,"Identify interested parties, their requirements, and which become compliance obligations.",Certifiable,Interested-party register; link to compliance obligations.
+ISO14001-03,4.3,Scope of the EMS,organization,"Define the EMS boundaries and applicability, considering activities, products and services you control or influence.",Certifiable,"Scope statement (documented information), available to interested parties."
+ISO14001-04,4.4,Environmental management system,organization,"Establish the EMS and its processes, informed by context.",Certifiable,EMS manual or process description; process interactions.
+ISO14001-05,5.1,Leadership and commitment,organization,Top management is accountable for the EMS and integrates it into business processes.,Certifiable,Management review records; evidence of leaders' involvement and resources.
+ISO14001-06,5.2,Environmental policy,organization,"Set a policy committed to environmental protection, compliance and continual improvement.",Certifiable,"Approved policy (documented information), communicated and available."
+ISO14001-07,5.3,"Roles, responsibilities and authorities",organization,"Assign and communicate EMS responsibilities, including reporting on EMS performance.",Certifiable,"Role descriptions or RACI, appointment records."
+ISO14001-08,6.1.1,Risks and opportunities — general,organization,"Plan to address risks and opportunities from context, aspects and compliance obligations, including emergencies.",Certifiable,Risk and opportunity register (documented information).
+ISO14001-09,6.1.2,Environmental aspects,organization,Identify aspects and impacts with a life cycle perspective and determine significant aspects.,Certifiable,Aspects and impacts register with criteria and significant aspects (documented information).
+ISO14001-10,6.1.3,Compliance obligations,organization,Identify and have access to legal and other requirements and how they apply.,Certifiable,Compliance obligations register (documented information).
+ISO14001-11,6.1.4,Planning action,organization,"Plan actions for significant aspects, obligations, risks and opportunities, and how to evaluate their effectiveness.",Certifiable,Action plans linked to registers.
+ISO14001-12,6.2,Environmental objectives and planning,organization,"Set measurable objectives and plan what, who, when and how results are evaluated.",Certifiable,Objectives and plans (documented information); progress.
+ISO14001-13,6.3,Planning of changes,organization,Plan changes to the EMS in a controlled way.,Certifiable,Change planning records.
+ISO14001-14,7.1,Resources,organization,Provide the resources the EMS needs.,Certifiable,Resource decisions in management review.
+ISO14001-15,7.2,Competence,organization,Ensure competence of people whose work affects environmental performance or obligations.,Certifiable,Training needs and records (documented evidence).
+ISO14001-16,7.3,Awareness,organization,"People know the policy, significant aspects, their contribution and consequences of non-conformance.",Certifiable,Awareness records and quiz results.
+ISO14001-17,7.4,Communication,organization,"Plan internal and external communication, including what obligations require.",Certifiable,Communication records (documented evidence as appropriate).
+ISO14001-18,7.5,Documented information,organization,"Create, update and control EMS documents and records.",Certifiable,"Document list, approvals, retention and access control."
+ISO14001-19,8.1,Operational planning and control,organization,"Control processes linked to significant aspects, including outsourced processes and life cycle stages.",Certifiable,"Operational controls, contractor requirements, inspection records."
+ISO14001-20,8.2,Emergency preparedness and response,organization,Prepare for and respond to potential emergencies; test responses.,Certifiable,"Emergency plans, drill records, incident reports."
+ISO14001-21,9.1.1,"Monitoring, measurement, analysis and evaluation",organization,Monitor environmental performance with calibrated equipment and evaluate results.,Certifiable,"Monitoring results, calibration records (documented evidence)."
+ISO14001-22,9.1.2,Evaluation of compliance,organization,Evaluate fulfilment of compliance obligations at planned intervals.,Certifiable,Evaluation of compliance results (documented evidence).
+ISO14001-23,9.2,Internal audit,organization,"Run an audit program with objectives, criteria and scope; report and act.",Certifiable,Audit program and reports (documented evidence).
+ISO14001-24,9.3,Management review,organization,Top management reviews the EMS with all required inputs and records decisions.,Certifiable,Management review minutes (documented evidence).
+ISO14001-25,10.1,Continual improvement,organization,"Improve the suitability, adequacy and effectiveness of the EMS to enhance environmental performance.",Certifiable,Improvement actions and results.
+ISO14001-26,10.2,Nonconformity and corrective action,organization,"React, find causes, act, verify effectiveness and update the EMS.",Certifiable,Nonconformity and corrective action records.
